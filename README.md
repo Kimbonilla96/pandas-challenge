@@ -87,7 +87,8 @@ Use pd.cut on the "Total Students" column of the per_school_summary DataFrame.
 
 Create a DataFrame called size_summary that breaks down school performance based on school size (small, medium, or large).
 
-<img width="1000" alt="Screenshot 2024-03-27 at 9 21 36 PM" src="https://github.com/Kimbonilla96/pandas-challenge/assets/156154742/6022a0bc-2030-4ffe-b548-e9a67e1e5dfb">
+<img width="989" alt="Screenshot 2024-03-27 at 9 25 57 PM" src="https://github.com/Kimbonilla96/pandas-challenge/assets/156154742/6043c911-fdb0-4b94-bcc8-53d7c0901091">
+
 
 <img width="985" alt="Screenshot 2024-03-27 at 9 24 17 PM" src="https://github.com/Kimbonilla96/pandas-challenge/assets/156154742/b98d76cd-7605-48a3-a0e4-df90043e46ab">
 
